@@ -30,4 +30,3 @@ Golang + PostgreSQL + Docker
 
 [LinkedIn](https://www.linkedin.com/in/davi-haas-rodrigues/)
 [Portfolio](https://www.davihaasrodrigues.com/)
-[Email](davihaasrodrigues@gmail.com)
